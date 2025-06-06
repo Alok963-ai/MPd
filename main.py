@@ -34,7 +34,7 @@ from telegram.ext import (
 
 # Configuration: set your bot token and owner ID here
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-OWNER_ID = 123456789  # Change to your Telegram user ID (int)
+OWNER_ID = 7833842279  # Change to your Telegram user ID (int)
 
 def owner_only(func):
     """Decorator to allow only owner to use the bot."""
